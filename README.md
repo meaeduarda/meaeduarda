@@ -1,6 +1,6 @@
-### Olá, Bem vindes ao meu GitHub👋
+# Olá, Bem vindes ao meu GitHub👋
 
-# Minha Bio
+### Biografia
 
 Psicóloga e graduanda no curso de Análise e Desenvolvimento de Sistemas. Tem alinhado seus objetivos, com determinação, criatividade e curiosidade, na área de desenvolvimento de software. Possue interesse nas principais tecnologias Front-End, porém também interessa-se na área de Desenvolvimento Mobile. Assim, sempre está em busca de novos desafios, habilidades e conhecimentos. Tem pretenção de ser uma grande programadora Full-Stack e trabalhar em uma grande empresa de tecnologia. Atualmente, está em busca de uma oportunidade profissional na área de programação, nos cargos de estágiaria ou júnior, para contribuir com suas habilidades e também adquirir novos conhecimentos na área.
 
