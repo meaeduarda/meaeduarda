@@ -6,6 +6,7 @@ Psicóloga e graduanda no curso de Análise e Desenvolvimento de Sistemas. Tem a
 
 <b>Conhecimentos Básicos:</b> HTML5, CSS3, Lógica de Programação, Git, GitHub, JavaScript, dentre outras. <br>
 <b>Rumo aos estudos de:</b> Angular, Mysql, Linux, Vue, React.JS, JQUERY, Automações, Desenvolvimento Web e Mobile.
+</div>
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
