@@ -28,7 +28,7 @@ e também adquirir novos conhecimentos na área.
 
 # Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=curriculomeaeduarda.github.io&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=curriculomeaeduarda.github.io&theme=midnight-purple)](https://github.com/meaeduarda/curriculomeaeduarda.github.io)
 
 # Contatos
 <a href="https://mail.google.com/mail/u/0/#sent?compose=GTvVlcSHwsMmrTJrfCVBNHSBtCvhDWkbwfPHxLNTtkqFgdNGVzDqlvCFmLGSrZLQTFpZKMHNPxVzj" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
