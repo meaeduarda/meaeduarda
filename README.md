@@ -1,11 +1,11 @@
 # Olá, Bem vindes ao meu GitHub👋
 
 ### Biografia
+Fascinada pelo universo da programação com conhecimento de HTML, CSS, SQL, Python e Java. Sou estudante do curso de Análise e Desenvolvimento de Sistemas. Tenho alinhado meus estudos, com determinação, criatividade e curiosidade, na área de desenvolvimento de software. No ano de 2023 participei do curso de Qualificação Profissional Desenvolvimento Web Front-End, ministrado no SENAC, onde tive contato com a linguagem JavaScript e ferramentas como Photoshop, Illustrator
+e Wordpress. Estou sempre em busca de desafios que me permitam crescer profissionalmente e contribuir de maneira significativa para o campo da tecnologia da informação.Tenho pretenção de ser uma grande programadora Full-Stack e trabalhar em uma grande empresa de tecnologia. Atualmente, estou em busca de uma oportunidade profissional na área de programação, nos cargos de estágiaria ou júnior, para contribuir com suas habilidades e também adquirir novos conhecimentos na área.
 
-Psicóloga e graduanda no curso de Análise e Desenvolvimento de Sistemas. Tem alinhado seus objetivos, com determinação, criatividade e curiosidade, na área de desenvolvimento de software. Possue interesse nas principais tecnologias Front-End, porém também interessa-se na área de Desenvolvimento Mobile. Assim, sempre está em busca de novos desafios, habilidades e conhecimentos. Tem pretenção de ser uma grande programadora Full-Stack e trabalhar em uma grande empresa de tecnologia. Atualmente, está em busca de uma oportunidade profissional na área de programação, nos cargos de estágiaria ou júnior, para contribuir com suas habilidades e também adquirir novos conhecimentos na área.
-
-<b>Conhecimentos Básicos:</b> HTML5, CSS3, Lógica de Programação, Git, GitHub, JavaScript, dentre outras. <br>
-<b>Rumo aos estudos de:</b> Angular, Mysql, Linux, Vue, React.JS, JQUERY, Automações, Desenvolvimento Web e Mobile.
+<b>Conhecimentos Básicos:</b> HTML5, CSS3, Lógica de Programação, Git, GitHub, JavaScript, Java, MySQL, Python. <br>
+<b>Rumo aos estudos de:</b> Angular, Linux, Vue, React.JS, JQUERY, Automações, Desenvolvimento Web.
 </div>
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
