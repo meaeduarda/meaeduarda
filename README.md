@@ -25,7 +25,7 @@ e Wordpress. Estou sempre em busca de desafios que me permitam crescer profissio
 # Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=meaeduardacurriculogithub.io&theme=midnight-purple)](https://github.com/meaeduarda/meaeduardacurriculogithub.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=LeitorDePensamento&theme=blue)](https://github.com/meaeduarda/LeitorDePensamento)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=LeitorDePensamento&theme=midnight-purple)](https://github.com/meaeduarda/LeitorDePensamento)
 
 # Contatos
 <a href="https://mail.google.com/mail/u/0/#sent?compose=GTvVlcSHwsMmrTJrfCVBNHSBtCvhDWkbwfPHxLNTtkqFgdNGVzDqlvCFmLGSrZLQTFpZKMHNPxVzj" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
