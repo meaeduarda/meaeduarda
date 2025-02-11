@@ -13,6 +13,7 @@ e Wordpress. Estou sempre em busca de desafios que me permitam crescer profissio
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![MySql](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge)
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meaeduarda&show_icons-true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
