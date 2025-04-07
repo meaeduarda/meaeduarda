@@ -24,9 +24,10 @@ e Wordpress. Estou sempre em busca de desafios que me permitam crescer profissio
 ## Github Stats
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=meaeduarda&show_icons-true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-<img height="180em" src="http://github-readme-stats.vercel.app/api/top-langs?username=meaeduarda&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meaeduarda&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meaeduarda&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
+
 
 ## Minhas Contribuições
 
