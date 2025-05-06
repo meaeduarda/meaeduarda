@@ -39,9 +39,10 @@ Meu objetivo é me tornar uma **desenvolvedora Full-Stack** e trabalhar em uma g
 
 ## 📊 GitHub Stats  
 
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meaeduarda&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meaeduarda&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meaeduarda&layout=compact&langs_count=16&theme=midnight-purple&cache_seconds=86400"/>
 </div>
 
 ---
