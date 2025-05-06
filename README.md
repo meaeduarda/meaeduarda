@@ -49,10 +49,11 @@ Meu objetivo é me tornar uma **desenvolvedora Full-Stack** e trabalhar em uma g
 
 ## 🔥 Minhas Contribuições  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=Banking_operation&theme=midnight-purple)](https://github.com/meaeduarda/banking_operation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=LeitorDePensamento&theme=midnight-purple)](https://github.com/meaeduarda/LeitorDePensamento)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=Bd_oficina&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/meaeduarda/Bd_oficina)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=sitelegendary&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/meaeduarda/sitelegendary)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=Banking_operation&theme=midnight-purple&cache_seconds=86400)](https://github.com/meaeduarda/banking_operation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=LeitorDePensamento&theme=midnight-purple&cache_seconds=86400)](https://github.com/meaeduarda/LeitorDePensamento)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=Bd_oficina&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&cache_seconds=86400)](https://github.com/meaeduarda/Bd_oficina)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=sitelegendary&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&cache_seconds=86400)](https://github.com/meaeduarda/sitelegendary)
+
 
 ---
 
