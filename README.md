@@ -27,6 +27,8 @@ habilidades e colaborar para o desenvolvimento de soluções eficientes e criati
 - Vue
 - React.js
 - Automações
+- IA generativa 
+- Cloud 
 
 ---
 
