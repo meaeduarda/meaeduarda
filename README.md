@@ -1,12 +1,20 @@
 # Olá, bem-vindes ao meu GitHub! 👋
 
-## Sobre mim 
+#Sou Maria Eduarda Cavalcanti, estudante do curso Ciência da Computação pela
+Estácio, formada em Análise e Desenvolvimento de Sistemas pela UNIFBV.
+Atualmente em transição de carreira da Psicologia para a área de Tecnologia,
+tenho me dedicado intensamente ao desenvolvimento de software e à busca por
+soluções inovadoras. Durante minha trajetória acadêmica e profissional, participei
+do curso de Qualificação em Front-End pelo SENAC, onde aprofundei
+conhecimentos em linguagens como JavaScript e no uso de ferramentas como
+WordPress e Illustrator, atuando na criação de projetos reais com foco em impacto
+social e inovação. Tenho interesse em estagiar nas áreas de Banco de Dados, QA
+ou Desenvolvimento Web, com familiaridade em tecnologias como SQL, Java,
+Python, HTML, CSS e JavaScript. Meu objetivo é me destacar como profissional
+de tecnologia, unindo excelência técnica à capacidade de trabalho em equipe e à
+visão estratégica para a inovação. Busco constantemente aprimorar minhas
+habilidades e colaborar para o desenvolvimento de soluções eficientes e criativas.
 
-Sou fascinada pelo universo da programação e possuo conhecimento em **HTML, CSS, SQL, Python e Java**. Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** e direciono meus estudos com **determinação, criatividade e curiosidade** para a área de desenvolvimento de software.
-
-Em 2023, participei do curso de **Qualificação Profissional em Desenvolvimento Web Front-End** no **SENAC**, onde tive contato com **JavaScript** e ferramentas como **Photoshop, Illustrator** e **WordPress**. Estou sempre em busca de desafios que me permitam **crescer profissionalmente** e contribuir significativamente para o campo da **Tecnologia da Informação**.
-
-Meu objetivo é me tornar uma **desenvolvedora Full-Stack** e trabalhar em uma grande empresa de tecnologia. Atualmente, estou buscando **oportunidades profissionais** na área de programação, seja como **estagiária** ou **júnior**, para aplicar meus conhecimentos e adquirir novas experiências.
 
 ### 🔹 Conhecimentos Básicos:
 - **Linguagens:** HTML5, CSS3, JavaScript, Java, Python, SQL  
@@ -14,13 +22,12 @@ Meu objetivo é me tornar uma **desenvolvedora Full-Stack** e trabalhar em uma g
 - **Fundamentos:** Lógica de Programação  
 
 ### 📚 Rumo aos estudos de:
-- Angular
+- Power BI
+- Docker 
 - Linux
 - Vue
 - React.js
-- jQuery
 - Automações
-- Desenvolvimento Web
 
 ---
 
