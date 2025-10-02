@@ -1,7 +1,6 @@
 # Olá, bem-vindes ao meu GitHub! 👋
 
-#Sou Maria Eduarda Cavalcanti, estudante do curso Ciência da Computação pela
-Estácio, formada em Análise e Desenvolvimento de Sistemas pela UNIFBV.
+# Sou Maria Eduarda Cavalcanti, estudante do curso Ciência da Computação pela Estácio, formada em Análise e Desenvolvimento de Sistemas pela UNIFBV.
 Atualmente em transição de carreira da Psicologia para a área de Tecnologia,
 tenho me dedicado intensamente ao desenvolvimento de software e à busca por
 soluções inovadoras. Durante minha trajetória acadêmica e profissional, participei
