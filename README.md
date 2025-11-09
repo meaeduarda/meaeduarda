@@ -1,15 +1,15 @@
 # Olá, bem-vindes ao meu GitHub! 👋
 
-Sou Maria Eduarda Cavalcanti, estudante do curso Ciência da Computação pela Estácio, formada em Análise e Desenvolvimento de Sistemas pela UNIFBV.
-Atualmente em transição de carreira da Psicologia para a área de Tecnologia,
-tenho me dedicado intensamente ao desenvolvimento de software e à busca por
+Sou Maria Eduarda Cavalcanti, estudante do curso Ciência da Computação pela Estácio, formada em Análise e Desenvolvimento de Sistemas pela UNIFBV e Psicologia pela UNICAP.
+Atualmente sou estagiária no Setor de Tecnologia do CREMEPE,
+tenho me dedicado intensamente ao desenvolvimento de software, analise de dados e à busca por
 soluções inovadoras. Durante minha trajetória acadêmica e profissional, participei
 do curso de Qualificação em Front-End pelo SENAC, onde aprofundei
 conhecimentos em linguagens como JavaScript e no uso de ferramentas como
 WordPress e Illustrator, atuando na criação de projetos reais com foco em impacto
-social e inovação. Tenho interesse em estagiar nas áreas de Banco de Dados, QA
-ou Desenvolvimento Web, com familiaridade em tecnologias como SQL, Java,
-Python, HTML, CSS e JavaScript. Meu objetivo é me destacar como profissional
+social e inovação. Tenho me especializado cada vez mais em Banco de Dados (MySQL, OracleSQL e PostegreSQL), Power BI e Cloud.
+Tenho como hobby a área de desenvolvimento WEB. Possuo conhecimento em linguagens como SQL, Java,
+Python e JavaScript. Meu objetivo é me destacar como profissional
 de tecnologia, unindo excelência técnica à capacidade de trabalho em equipe e à
 visão estratégica para a inovação. Busco constantemente aprimorar minhas
 habilidades e colaborar para o desenvolvimento de soluções eficientes e criativas.
@@ -17,15 +17,12 @@ habilidades e colaborar para o desenvolvimento de soluções eficientes e criati
 
 ### 🔹 Conhecimentos Básicos:
 - **Linguagens:** HTML5, CSS3, JavaScript, Java, Python, SQL  
-- **Ferramentas:** Git, GitHub  
+- **Ferramentas:** Git, GitHub, Power BI, WordPress  
 - **Fundamentos:** Lógica de Programação  
 
 ### 📚 Rumo aos estudos de:
-- Power BI
 - Docker 
 - Linux
-- Vue
-- React.js
 - Automações
 - IA generativa 
 - Cloud 
