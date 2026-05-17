@@ -10,10 +10,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=meaeduarda&style=for-the-badge&color=blueviolet" />
-
-<br><br>
-
 <a href="mailto:meaeduardadev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -110,12 +106,15 @@ Também atuo na Cronos Solutions desenvolvendo aplicações e soluções digitai
 
 | Projeto | Descrição |
 |---|---|
-| [Cronos Solutions](https://github.com/meaeduarda/cronossolutions) | Desenvolvimento de websites e soluções digitais |
-| [Banking Operation](https://github.com/meaeduarda/banking_operation) | Sistema bancário desenvolvido para prática de lógica e operações |
-| [Automation Python](https://github.com/meaeduarda/automation_python) | Scripts de automação utilizando Python |
-| [Database Mechanical Workshop](https://github.com/meaeduarda/database_mechanical_workshop) | Modelagem e gerenciamento de banco de dados para oficina |
-| [DevOps Automation](https://github.com/meaeduarda/devops_automation) | Estudos e práticas de automação e DevOps |
-| [Portfólio Gabba](https://github.com/meaeduarda/portifolio_gabba) | Projeto de portfólio web moderno |
+| [Cronos Solutions](https://github.com/meaeduarda/cronossolutions) | Desenvolvimento de websites e soluções digitais voltadas para presença online, performance e experiência do usuário. |
+| [Clínica Estrela](https://github.com/meaeduarda/clinicaestrela) | Website institucional desenvolvido com foco em experiência do usuário, design moderno e presença digital para área da saúde. |
+| [Giovanna Galhardo](https://github.com/meaeduarda/giovannagalhardo) | Projeto de website moderno com identidade visual personalizada, desenvolvido para fortalecimento de marca e presença digital. |
+| [Manipulador PDF](https://github.com/meaeduarda/manipulador_pdf) | Aplicação desktop desenvolvida em Python para manipulação avançada de arquivos PDF, criada durante meu estágio no CREMEPE. O sistema permite inserção, remoção, reorganização e extração de páginas, além de recursos como marcação de texto, destaques personalizados, numeração automática e persistência de anotações em JSON. Desenvolvido com PyQt5, PyMuPDF e PyPDF2, com foco em produtividade e usabilidade. |
+| [Banking Operation](https://github.com/meaeduarda/banking_operation) | Sistema bancário desenvolvido para prática de lógica de programação, operações financeiras e organização de regras de negócio. |
+| [Automation Python](https://github.com/meaeduarda/automation_python) | Scripts e automações utilizando Python com foco em produtividade, organização de tarefas e otimização de processos. |
+| [Database Mechanical Workshop](https://github.com/meaeduarda/database_mechanical_workshop) | Projeto de modelagem e gerenciamento de banco de dados voltado para uma oficina mecânica, utilizando conceitos de SQL e estruturação relacional. |
+| [DevOps Automation](https://github.com/meaeduarda/devops_automation) | Repositório de estudos e práticas envolvendo automação, DevOps, infraestrutura e integração contínua. |
+| [Portfólio Gabba](https://github.com/meaeduarda/portifolio_gabba) | Projeto de portfólio web moderno com foco em responsividade, design e experiência visual. |
 
 ---
 
