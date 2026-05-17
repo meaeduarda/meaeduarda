@@ -11,26 +11,26 @@
 <br><br>
 
 <a href="mailto:meaeduardadev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/maria-eduarda-cavalcanti/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://github.com/meaeduarda">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://meaeduarda.github.io/meu_portifolio/">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-# Sobre mim
+## Sobre mim
 
 Estudante de Ciência da Computação pela Estácio, formada em Análise e Desenvolvimento de Sistemas pela UNIFBV.
 
@@ -48,79 +48,82 @@ Também atuo na Cronos Solutions desenvolvendo aplicações e soluções digitai
 
 ---
 
-# Stack Tecnológica
+## Stack Tecnológica
 
 ### Linguagens
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,php,html,css"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,php,html,css" />
 </p>
 
 ### Banco de Dados
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </p>
-
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-
----
 
 ### DevOps • Infraestrutura • Cloud
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,gitlab,azure"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,gitlab,azure" />
 </p>
-
----
 
 ### Ferramentas
 
-<p>
-<img src="https://skillicons.dev/icons?i=figma"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </p>
-
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 
 ---
 
-# GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=meaeduarda&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=meaeduarda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meaeduarda&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meaeduarda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
 ---
 
-# Projetos em Destaque
+## Projetos em Destaque
 
+<!-- Verifique se esses repositórios existem e são públicos -->
 <div align="center">
 
+<!-- Opção 1: Se os repositórios existirem -->
 <a href="https://github.com/meaeduarda/cronossolutions">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=cronossolutions&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=cronossolutions&theme=tokyonight&hide_border=true">
 </a>
 
 <a href="https://github.com/meaeduarda/devops_automation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=devops_automation&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=devops_automation&theme=tokyonight&hide_border=true">
 </a>
 
 <a href="https://github.com/meaeduarda/automation_python">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=automation_python&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=automation_python&theme=tokyonight&hide_border=true">
 </a>
 
 <a href="https://github.com/meaeduarda/database_mechanical_workshop">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=database_mechanical_workshop&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=database_mechanical_workshop&theme=tokyonight&hide_border=true">
 </a>
 
 </div>
 
+<!-- Opção 2: Se os repositórios NÃO existirem, use esta versão com placeholders -->
+<!--
+<div align="center">
+  <i>Em breve mais projetos serão adicionados...</i>
+</div>
+-->
+
 ---
 
-# Experiência
+## Experiência
 
 ### CREMEPE — Estagiária de TI
 **2024 - Atual**
@@ -145,7 +148,7 @@ Também atuo na Cronos Solutions desenvolvendo aplicações e soluções digitai
 
 ---
 
-# Atualmente estudando
+## Atualmente estudando
 
 ```yaml
 - DevOps
@@ -155,30 +158,3 @@ Também atuo na Cronos Solutions desenvolvendo aplicações e soluções digitai
 - Automação
 - CI/CD
 - IA Generativa
-```
-
----
-
-# Certificações
-
-- SENAC Porto Digital — Front-End
-- CESAR School — Agile & Scrum
-- DIO — Database Experience
-- DIO + Heineken — IA aplicada a dados
-- Udemy — DevOps
-- UpInside — FullStack PHP
-
----
-
-# Idiomas
-
-- Inglês básico
-- Espanhol básico
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
-
-</div>
