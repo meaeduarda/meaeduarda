@@ -48,7 +48,7 @@ Também atuo na Cronos Solutions desenvolvendo aplicações e soluções digitai
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/[v1.Y2lkPTc5MGI3NjExM3Q5M2t2Y2F2Y2Q3M2N0eDRvMjh0dDZ3Y2h6cWJxMG9vOXJmMXA3YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif](https://github.com/meaeduarda/meaeduarda/blob/main/CRONOS%20SOLUTIONS%20TECH%20(1).gif)" width="700">
+<img src="https://raw.githubusercontent.com/meaeduarda/meaeduarda/main/CRONOS%20SOLUTIONS%20TECH%20(1).gif" width="700">
 
 </div>
 
