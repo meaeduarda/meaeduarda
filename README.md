@@ -10,6 +10,10 @@
 
 <br><br>
 
+<img src="https://komarev.com/ghpvc/?username=meaeduarda&style=for-the-badge&color=blueviolet" />
+
+<br><br>
+
 <a href="mailto:meaeduardadev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -30,76 +34,92 @@
 
 ---
 
-## Sobre mim
+# Sobre mim
 
-Estudante de Ciência da Computação pela Estácio, formada em Análise e Desenvolvimento de Sistemas pela UNIFBV.
+Estudante de Ciência da Computação pela Estácio, formada em Análise e Desenvolvimento de Sistemas pela UNIFBV e bacharela em Psicologia pela UNICAP.
 
-Atualmente atuo como Estagiária de TI no CREMEPE, com experiência em:
+Atualmente atuo como Estagiária de TI no CREMEPE, trabalhando com:
 
 - SQL Oracle
 - Power BI
-- Linux
+- Linux Debian
 - Windows Server
+- Banco de Dados
 - Suporte técnico
-- Banco de dados
-- Desenvolvimento web
+- Desenvolvimento Web
 
 Também atuo na Cronos Solutions desenvolvendo aplicações e soluções digitais.
 
 ---
 
-## Stack Tecnológica
+# Stack Tecnológica
 
-### Linguagens
+## Linguagens
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,php,html,css" />
 </p>
 
-### Banco de Dados
+---
+
+## Banco de Dados
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </p>
 
-### DevOps • Infraestrutura • Cloud
+---
+
+## DevOps • Infraestrutura • Cloud
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,gitlab,azure" />
 </p>
 
-### Ferramentas
+---
+
+## Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </p>
 
 ---
 
-## GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/meaeduarda/meaeduarda/main/profile/overview.svg" width="48%" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=meaeduarda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img src="https://raw.githubusercontent.com/meaeduarda/meaeduarda/main/profile/languages.svg" width="48%" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meaeduarda&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=meaeduarda&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-## Projetos em Destaque
+# Projetos em Destaque
 
 <div align="center">
 
 <a href="https://github.com/meaeduarda/cronossolutions">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=cronossolutions&theme=tokyonight&hide_border=true">
-</a>
-
-<a href="https://github.com/meaeduarda/clinicaestrela">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=clinicaestrela&theme=tokyonight&hide_border=true">
 </a>
 
 <a href="https://github.com/meaeduarda/banking_operation">
@@ -114,6 +134,10 @@ Também atuo na Cronos Solutions desenvolvendo aplicações e soluções digitai
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=database_mechanical_workshop&theme=tokyonight&hide_border=true">
 </a>
 
+<a href="https://github.com/meaeduarda/devops_automation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=devops_automation&theme=tokyonight&hide_border=true">
+</a>
+
 <a href="https://github.com/meaeduarda/portifolio_gabba">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=portifolio_gabba&theme=tokyonight&hide_border=true">
 </a>
@@ -122,9 +146,9 @@ Também atuo na Cronos Solutions desenvolvendo aplicações e soluções digitai
 
 ---
 
-## Experiência
+# Experiência
 
-### CREMEPE — Estagiária de TI
+## CREMEPE — Estagiária de TI
 **2024 - Atual**
 
 - Consultas SQL Oracle
@@ -133,10 +157,11 @@ Também atuo na Cronos Solutions desenvolvendo aplicações e soluções digitai
 - Linux Debian
 - Windows Server
 - Suporte técnico
+- Administração básica de infraestrutura
 
 ---
 
-### Cronos Solutions — Desenvolvedora Freelancer
+## Cronos Solutions — Desenvolvedora Freelancer
 **2025 - Atual**
 
 - Desenvolvimento Web
@@ -144,10 +169,11 @@ Também atuo na Cronos Solutions desenvolvendo aplicações e soluções digitai
 - JavaScript
 - APIs REST
 - HTML/CSS
+- Manutenção e deploy de aplicações
 
 ---
 
-## Atualmente estudando
+# Atualmente estudando
 
 ```yaml
 - DevOps
@@ -157,3 +183,31 @@ Também atuo na Cronos Solutions desenvolvendo aplicações e soluções digitai
 - Automação
 - CI/CD
 - IA Generativa
+- Cloud Computing
+```
+
+---
+
+# Certificações
+
+- SENAC Porto Digital — Front-End Web
+- CESAR School — Agile & Scrum
+- DIO — Database Experience
+- DIO + Heineken — IA aplicada a dados
+- Udemy — DevOps & Automação
+- UpInside — FullStack PHP
+
+---
+
+# Idiomas
+
+- Inglês — Básico (leitura técnica)
+- Espanhol — Básico
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=110&section=footer"/>
+
+</div>
