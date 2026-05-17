@@ -73,7 +73,7 @@ Também atuo na Cronos Solutions desenvolvendo aplicações e soluções digitai
 ## DevOps • Infraestrutura • Cloud
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,gitlab,azure" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,gitlab,azure,aws" />
 </p>
 
 ---
