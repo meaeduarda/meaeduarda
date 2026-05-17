@@ -38,7 +38,7 @@
 
 Estudante de Ciência da Computação pela Estácio, formada em Análise e Desenvolvimento de Sistemas pela UNIFBV e bacharela em Psicologia pela UNICAP.
 
-Atualmente atuo como Estagiária de TI no CREMEPE, trabalhando com:
+Atualmente atuo como Estagiária de TI no CREMEPE, com experiência em:
 
 - SQL Oracle
 - Power BI
@@ -104,45 +104,18 @@ Também atuo na Cronos Solutions desenvolvendo aplicações e soluções digitai
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meaeduarda&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
 ---
 
 # Projetos em Destaque
 
-<div align="center">
-
-<a href="https://github.com/meaeduarda/cronossolutions">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=cronossolutions&theme=tokyonight&hide_border=true">
-</a>
-
-<a href="https://github.com/meaeduarda/banking_operation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=banking_operation&theme=tokyonight&hide_border=true">
-</a>
-
-<a href="https://github.com/meaeduarda/automation_python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=automation_python&theme=tokyonight&hide_border=true">
-</a>
-
-<a href="https://github.com/meaeduarda/database_mechanical_workshop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=database_mechanical_workshop&theme=tokyonight&hide_border=true">
-</a>
-
-<a href="https://github.com/meaeduarda/devops_automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=devops_automation&theme=tokyonight&hide_border=true">
-</a>
-
-<a href="https://github.com/meaeduarda/portifolio_gabba">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=portifolio_gabba&theme=tokyonight&hide_border=true">
-</a>
-
-</div>
+| Projeto | Descrição |
+|---|---|
+| [Cronos Solutions](https://github.com/meaeduarda/cronossolutions) | Desenvolvimento de websites e soluções digitais |
+| [Banking Operation](https://github.com/meaeduarda/banking_operation) | Sistema bancário desenvolvido para prática de lógica e operações |
+| [Automation Python](https://github.com/meaeduarda/automation_python) | Scripts de automação utilizando Python |
+| [Database Mechanical Workshop](https://github.com/meaeduarda/database_mechanical_workshop) | Modelagem e gerenciamento de banco de dados para oficina |
+| [DevOps Automation](https://github.com/meaeduarda/devops_automation) | Estudos e práticas de automação e DevOps |
+| [Portfólio Gabba](https://github.com/meaeduarda/portifolio_gabba) | Projeto de portfólio web moderno |
 
 ---
 
