@@ -2,7 +2,7 @@
 
 # Maria Eduarda Cavalcanti
 
-### Analista de Sistemas • Desenvolvimento Web • Dados • DevOps
+### Analista de Sistemas • Desenvolvimento Web • Dados 
 
 <br>
 
