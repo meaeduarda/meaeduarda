@@ -92,16 +92,18 @@ Também atuo na Cronos Solutions desenvolvendo aplicações e soluções digitai
 
 ## Projetos em Destaque
 
-<!-- Verifique se esses repositórios existem e são públicos -->
 <div align="center">
 
-<!-- Opção 1: Se os repositórios existirem -->
 <a href="https://github.com/meaeduarda/cronossolutions">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=cronossolutions&theme=tokyonight&hide_border=true">
 </a>
 
-<a href="https://github.com/meaeduarda/devops_automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=devops_automation&theme=tokyonight&hide_border=true">
+<a href="https://github.com/meaeduarda/clinicaestrela">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=clinicaestrela&theme=tokyonight&hide_border=true">
+</a>
+
+<a href="https://github.com/meaeduarda/banking_operation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=banking_operation&theme=tokyonight&hide_border=true">
 </a>
 
 <a href="https://github.com/meaeduarda/automation_python">
@@ -112,14 +114,11 @@ Também atuo na Cronos Solutions desenvolvendo aplicações e soluções digitai
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=database_mechanical_workshop&theme=tokyonight&hide_border=true">
 </a>
 
-</div>
+<a href="https://github.com/meaeduarda/portifolio_gabba">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=portifolio_gabba&theme=tokyonight&hide_border=true">
+</a>
 
-<!-- Opção 2: Se os repositórios NÃO existirem, use esta versão com placeholders -->
-<!--
-<div align="center">
-  <i>Em breve mais projetos serão adicionados...</i>
 </div>
--->
 
 ---
 
