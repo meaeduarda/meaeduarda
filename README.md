@@ -88,19 +88,6 @@ Também atuo na Cronos Solutions desenvolvendo aplicações e soluções digitai
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </p>
 
----
-
-# GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=meaeduarda&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meaeduarda&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
-</div>
-
----
 
 # Projetos em Destaque
 
