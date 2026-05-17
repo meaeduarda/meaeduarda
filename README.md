@@ -103,26 +103,33 @@ Minha trajetória une:
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=meaeduarda&theme=tokyo-night"/>
+
+</div>
 ---
 
 # 🔥 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/meaeduarda/Banking_operation">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=Banking_operation&theme=tokyonight&border_radius=15"/>
+<a href="https://github.com/meaeduarda/cronossolutions">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=cronossolutions&theme=tokyonight&border_radius=15"/>
 </a>
 
-<a href="https://github.com/meaeduarda/LeitorDePensamento">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=LeitorDePensamento&theme=tokyonight&border_radius=15"/>
+<a href="https://github.com/meaeduarda/devops_automation">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=devops_automation&theme=tokyonight&border_radius=15"/>
 </a>
 
-<a href="https://github.com/meaeduarda/Bd_oficina">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=Bd_oficina&theme=tokyonight&border_radius=15"/>
+<a href="https://github.com/meaeduarda/automation_python">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=automation_python&theme=tokyonight&border_radius=15"/>
 </a>
 
-<a href="https://github.com/meaeduarda/sitelegendary">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=sitelegendary&theme=tokyonight&border_radius=15"/>
+<a href="https://github.com/meaeduarda/database_mechanical_workshop">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=meaeduarda&repo=database_mechanical_workshop&theme=tokyonight&border_radius=15"/>
 </a>
 
 </div>
