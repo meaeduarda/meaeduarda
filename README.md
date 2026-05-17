@@ -121,7 +121,7 @@ Também atuo na Cronos Solutions desenvolvendo aplicações e soluções digitai
 # Experiência
 
 ## CREMEPE — Estagiária de TI
-**2024 - Atual**
+**2025 - Atual**
 
 - Consultas SQL Oracle
 - Relatórios e dashboards
