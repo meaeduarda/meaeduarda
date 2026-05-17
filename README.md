@@ -1,12 +1,16 @@
 <div align="center">
 
-# 👩‍💻 Maria Eduarda Cavalcanti
+# Maria Eduarda Cavalcanti
 
-### Analista de Sistemas • Desenvolvedora Web • Data & Tech Enthusiast
+### Analista de Sistemas • Desenvolvedora Web • Data & Tech
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Desenvolvimento+Web+%7C+Banco+de+Dados+%7C+Power+BI;SQL+%7C+JavaScript+%7C+PHP+%7C+Python;Cloud+%7C+DevOps+%7C+Automa%C3%A7%C3%A3o;Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Desenvolvimento+Web+%7C+Banco+de+Dados+%7C+Power+BI;SQL+%7C+JavaScript+%7C+PHP+%7C+Python;Cloud+%7C+DevOps+%7C+Automa%C3%A7%C3%A3o;Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais" />
 
 <br>
+
+![](https://komarev.com/ghpvc/?username=meaeduarda&color=blueviolet&style=for-the-badge)
+
+<br><br>
 
 <a href="mailto:meaeduardadev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -28,35 +32,27 @@
 
 ---
 
-# 🚀 Sobre mim
+# Sobre mim
 
-🎓 Estudante de **Ciência da Computação** pela Estácio  
-🎓 Formada em **Análise e Desenvolvimento de Sistemas** pela UNIFBV  
-🎓 Bacharela em **Psicologia** pela UNICAP  
+Estudante de Ciência da Computação pela Estácio, formada em Análise e Desenvolvimento de Sistemas pela UNIFBV e bacharela em Psicologia pela UNICAP.
 
-Sou apaixonada por tecnologia, inovação e desenvolvimento de soluções digitais com impacto real.
+Atualmente atuo como Estagiária de TI no CREMEPE, trabalhando com consultas SQL Oracle, Power BI, Linux, Windows Server, suporte técnico corporativo e manutenção de sistemas.
 
-Atualmente atuo como **Estagiária de TI no CREMEPE**, trabalhando com:
-- Banco de Dados Oracle
+Também sou desenvolvedora na Cronos Solutions, software house focada em desenvolvimento web e soluções digitais.
+
+Tenho foco em:
+- Desenvolvimento Web
+- Banco de Dados
 - Power BI
-- Linux & Windows Server
-- Suporte técnico corporativo
-- Consultas SQL e geração de relatórios
-
-Também sou desenvolvedora na **Cronos Solutions**, software house focada em desenvolvimento web e soluções digitais modernas.
-
-Minha trajetória une:
-💡 visão estratégica  
-🧠 pensamento analítico  
-⚙️ desenvolvimento de software  
-📊 análise de dados  
-🚀 foco em performance e experiência do usuário
+- Automação
+- DevOps
+- Cloud Computing
 
 ---
 
-# ⚡ Tech Stack
+# Tech Stack
 
-## 💻 Linguagens
+## Linguagens
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,java,python,php,html,css" />
@@ -64,7 +60,7 @@ Minha trajetória une:
 
 ---
 
-## 🗄️ Banco de Dados
+## Banco de Dados
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
@@ -73,7 +69,7 @@ Minha trajetória une:
 
 ---
 
-## ☁️ DevOps • Cloud • Infra
+## DevOps • Cloud • Infraestrutura
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,gitlab,azure" />
@@ -81,19 +77,17 @@ Minha trajetória une:
 
 ---
 
-## 🎨 Ferramentas & Produtividade
+## Ferramentas
 
 <p>
 <img src="https://skillicons.dev/icons?i=figma" />
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kanban-007ACC?style=for-the-badge"/>
 </p>
 
 ---
 
-# 📈 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -110,9 +104,10 @@ Minha trajetória une:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=meaeduarda&theme=tokyo-night"/>
 
 </div>
+
 ---
 
-# 🔥 Featured Projects
+# Featured Projects
 
 <div align="center">
 
@@ -136,7 +131,43 @@ Minha trajetória une:
 
 ---
 
-# 📚 Atualmente estudando
+# Experiência Profissional
+
+## CREMEPE — Estagiária de TI
+**Out/2024 — Atual**
+
+- Consultas SQL Oracle
+- Relatórios e análise de dados
+- Power BI
+- Linux Debian & Windows Server
+- Suporte técnico corporativo
+- Administração básica de infraestrutura
+
+---
+
+## Cronos Solutions — Desenvolvedora Freelancer
+**2025 — Atual**
+
+- Desenvolvimento Web
+- PHP • JavaScript • APIs REST
+- HTML • CSS • JSON
+- Gestão de clientes e entregas
+- Performance e responsividade
+
+---
+
+# Certificações & Cursos
+
+- SENAC Porto Digital — Front-End Web
+- CESAR School — Agile, Scrum & Gestão de Projetos
+- DIO — Database Experience (SQL & NoSQL)
+- DIO + Heineken — IA aplicada a dados com Copilot
+- Udemy — DevOps & Automação
+- UpInside — FullStack PHP
+
+---
+
+# Atualmente estudando
 
 ```yaml
 - DevOps & Cloud
@@ -145,58 +176,19 @@ Minha trajetória une:
 - Automação
 - CI/CD
 - IA Generativa
-- Engenharia de Dados
 - APIs REST
 ```
 
 ---
 
-# 🧠 Experiência Profissional
+# Idiomas
 
-## 🏢 CREMEPE — Estagiária de TI
-📅 Out/2024 — Atual
-
-✔️ Consultas SQL Oracle  
-✔️ Relatórios e análise de dados  
-✔️ Power BI  
-✔️ Linux Debian & Windows Server  
-✔️ Suporte técnico corporativo  
-✔️ Administração básica de infraestrutura  
-
----
-
-## 🚀 Cronos Solutions — Desenvolvedora Freelancer
-📅 2025 — Atual
-
-✔️ Desenvolvimento Web  
-✔️ PHP • JavaScript • APIs REST  
-✔️ HTML • CSS • JSON  
-✔️ Gestão de clientes e entregas  
-✔️ Performance e responsividade  
-
----
-
-# 🎓 Certificações & Cursos
-
-🏅 SENAC Porto Digital — Front-End Web  
-🏅 CESAR School — Agile, Scrum & Gestão de Projetos  
-🏅 DIO — Database Experience (SQL & NoSQL)  
-🏅 DIO + Heineken — IA aplicada a dados com Copilot  
-🏅 Udemy — DevOps & Automação  
-🏅 UpInside — FullStack PHP  
-
----
-
-# 🌍 Idiomas
-
-🇺🇸 Inglês — Básico (leitura técnica)  
-🇪🇸 Espanhol — Básico  
+- Inglês — Básico (leitura técnica)
+- Espanhol — Básico
 
 ---
 
 <div align="center">
-
-## 🚀 “Tecnologia, estratégia e criatividade para construir soluções de impacto.”
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
