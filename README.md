@@ -1,8 +1,6 @@
 <div align="center">
 
-# Maria Eduarda Cavalcanti
-
-### Analista de Sistemas • Análise de Dados  • Desenvolvimento Web 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=8A2BE2&text=Maria%20Eduarda%20Cavalcanti&fontSize=42&fontAlignY=40&desc=Analista%20de%20Sistemas%20•%20Dados%20•%20Desenvolvimento%20Web&descAlignY=60"/>
 
 <br>
 
@@ -30,6 +28,8 @@
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212750238-f7d8d6f4-0e2e-4f88-9f5e-f4627d5c8f47.gif" width="100%">
+
 # Sobre mim
 
 Estudante de Ciência da Computação pela Estácio, formada em Análise e Desenvolvimento de Sistemas pela UNIFBV e bacharela em Psicologia pela UNICAP.
@@ -46,9 +46,17 @@ Atualmente atuo como Estagiária de TI no CREMEPE, com experiência em:
 
 Também atuo na Cronos Solutions desenvolvendo aplicações e soluções digitais.
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Q5M2t2Y2F2Y2Q3M2N0eDRvMjh0dDZ3Y2h6cWJxMG9vOXJmMXA3YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif" width="700">
+
+</div>
+
 ---
 
-# Stack Tecnológica
+<img src="https://user-images.githubusercontent.com/74038190/212750238-f7d8d6f4-0e2e-4f88-9f5e-f4627d5c8f47.gif" width="100%">
+
+# Stack Tecnológica ⚡
 
 ## Linguagens
 
@@ -88,6 +96,38 @@ Também atuo na Cronos Solutions desenvolvendo aplicações e soluções digitai
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </p>
 
+---
+
+# Tecnologias Principais
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=yellow" />
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=yellow" />
+<img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4" />
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerBI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" />
+
+</p>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750238-f7d8d6f4-0e2e-4f88-9f5e-f4627d5c8f47.gif" width="100%">
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meaeduarda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=meaeduarda&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750238-f7d8d6f4-0e2e-4f88-9f5e-f4627d5c8f47.gif" width="100%">
 
 # Projetos em Destaque
 
@@ -96,14 +136,16 @@ Também atuo na Cronos Solutions desenvolvendo aplicações e soluções digitai
 | [Cronos Solutions](https://github.com/meaeduarda/cronossolutions) | Desenvolvimento de websites e soluções digitais voltadas para presença online, performance e experiência do usuário. |
 | [Clínica Estrela](https://github.com/meaeduarda/clinicaestrela) | Website institucional desenvolvido com foco em experiência do usuário, design moderno e presença digital para área da saúde. |
 | [Giovanna Galhardo](https://github.com/meaeduarda/giovannagalhardo) | Projeto de website moderno com identidade visual personalizada, desenvolvido para fortalecimento de marca e presença digital. |
-| [Manipulador PDF](https://github.com/meaeduarda/manipulador_pdf) | Aplicação desktop desenvolvida em Python para manipulação avançada de arquivos PDF, criada durante meu estágio no CREMEPE. O sistema permite inserção, remoção, reorganização e extração de páginas, além de recursos como marcação de texto, destaques personalizados, numeração automática e persistência de anotações em JSON. Desenvolvido com PyQt5, PyMuPDF e PyPDF2, com foco em produtividade e usabilidade. |
-| [Banking Operation](https://github.com/meaeduarda/banking_operation) | Sistema bancário desenvolvido para prática de lógica de programação, operações financeiras e organização de regras de negócio. |
-| [Automation Python](https://github.com/meaeduarda/automation_python) | Scripts e automações utilizando Python com foco em produtividade, organização de tarefas e otimização de processos. |
-| [Database Mechanical Workshop](https://github.com/meaeduarda/database_mechanical_workshop) | Projeto de modelagem e gerenciamento de banco de dados voltado para uma oficina mecânica, utilizando conceitos de SQL e estruturação relacional. |
-| [DevOps Automation](https://github.com/meaeduarda/devops_automation) | Repositório de estudos e práticas envolvendo automação, DevOps, infraestrutura e integração contínua. |
-| [Portfólio Gabba](https://github.com/meaeduarda/portifolio_gabba) | Projeto de portfólio web moderno com foco em responsividade, design e experiência visual. |
+| [Manipulador PDF](https://github.com/meaeduarda/manipulador_pdf) | Aplicação desktop desenvolvida em Python para manipulação avançada de arquivos PDF, criada durante meu estágio no CREMEPE. |
+| [Banking Operation](https://github.com/meaeduarda/banking_operation) | Sistema bancário desenvolvido para prática de lógica de programação e regras de negócio. |
+| [Automation Python](https://github.com/meaeduarda/automation_python) | Scripts e automações utilizando Python com foco em produtividade e otimização de processos. |
+| [Database Mechanical Workshop](https://github.com/meaeduarda/database_mechanical_workshop) | Projeto de modelagem e gerenciamento de banco de dados para oficina mecânica. |
+| [DevOps Automation](https://github.com/meaeduarda/devops_automation) | Estudos e práticas envolvendo automação, DevOps e infraestrutura. |
+| [Portfólio Gabba](https://github.com/meaeduarda/portifolio_gabba) | Projeto de portfólio web moderno com foco em responsividade e experiência visual. |
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750238-f7d8d6f4-0e2e-4f88-9f5e-f4627d5c8f47.gif" width="100%">
 
 # Experiência
 
@@ -167,6 +209,6 @@ Também atuo na Cronos Solutions desenvolvendo aplicações e soluções digitai
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=110&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
 </div>
