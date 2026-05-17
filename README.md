@@ -94,9 +94,9 @@ Também atuo na Cronos Solutions desenvolvendo aplicações e soluções digitai
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=meaeduarda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=meaeduarda&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meaeduarda&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meaeduarda&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </div>
 
