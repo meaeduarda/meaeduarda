@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=8A2BE2&text=Maria%20Eduarda%20Cavalcanti&fontSize=42&fontAlignY=40&desc=Analista%20de%20Sistemas%20•%20Dados%20•%20Desenvolvimento%20Web&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=8A2BE2&text=Maria%20Eduarda%20Cavalcanti&fontSize=42&fontAlignY=40&desc=Analista%20de%20Sistemas%20•%20Analise%20de%20Dados%20•%20Desenvolvimento%20Web&descAlignY=60"/>
 
 <br>
 
