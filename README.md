@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=8A2BE2&text=Maria%20Eduarda%20Cavalcanti&fontSize=42&fontAlignY=40&desc=Analista%20de%20Sistemas%20•%20Web%20Developer%20•%20Data%20Analytics&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=8A2BE2&text=Maria%20Eduarda%20Cavalcanti&fontSize=42&fontAlignY=40&desc=Analista%20de%20Sistemas%20•%20Data%20Analytics%20•%20Web%20Developer&descAlignY=60"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Next.js+%2B+React+%2B+TypeScript;Web+Development;Data+Analytics+%7C+Power+BI+%7C+SQL;Node.js+e+Desenvolvimento+Full+Stack;Cloud+%7C+DevOps+%7C+Automa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Data+Analytics+%7C+Power+BI+%7C+SQL;Oracle+Database+%7C+Business+Intelligence;Next.js+%2B+React+%2B+TypeScript;Web+Development;Cloud+%7C+Docker+%7C+Azure)](https://git.io/typing-svg)
 
 <br><br>
 
@@ -34,14 +34,41 @@
 
 Formada em **Análise e Desenvolvimento de Sistemas** pela **UNIFBV**, bacharela em **Psicologia** pela **UNICAP** e atualmente graduanda em **Ciência da Computação** pela **Estácio**.
 
-Atualmente atuo como **Estagiária de TI no CREMEPE**, trabalhando com suporte técnico, SQL Oracle, Power BI, banco de dados, infraestrutura e administração de ambientes Linux e Windows Server.
+Atualmente atuo como **Estagiária de TI no CREMEPE**, trabalhando com SQL Oracle, Power BI, banco de dados, relatórios gerenciais, dashboards, suporte técnico e infraestrutura.
 
-Também desenvolvo websites e soluções digitais através da **Cronos Solutions**, utilizando tecnologias modernas como React, Next.js, TypeScript, Node.js, PHP e Firebase.
+Também desenvolvo websites e soluções digitais através da **Cronos Solutions**, utilizando tecnologias modernas como React, Next.js, TypeScript, Node.js e PHP.
 
 ### 🎯 Áreas de Interesse
 
+- 📊 Data Analytics
+- 📈 Business Intelligence (BI)
+- 🗄️ Banco de Dados
 - 🌐 Web Development
-- 📊 Data Analytics (Análise de Dados)
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750238-f7d8d6f4-0e2e-4f88-9f5e-f4627d5c8f47.gif" width="100%">
+
+# 📊 Data Analytics & Business Intelligence
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+
+</p>
+
+### Experiência com
+
+- SQL Oracle
+- Consultas e relatórios
+- Dashboards Power BI
+- Business Intelligence
+- Indicadores e métricas
+- Tratamento e análise de dados
+- Suporte à tomada de decisão
+- Administração de bancos de dados
 
 ---
 
@@ -85,7 +112,7 @@ Também desenvolvo websites e soluções digitais através da **Cronos Solutions
 
 ---
 
-## DevOps • Infraestrutura • Cloud
+## Cloud • Infraestrutura • DevOps
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github,gitlab,azure,aws" />
@@ -109,32 +136,16 @@ Também desenvolvo websites e soluções digitais através da **Cronos Solutions
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/Oracle-111827?style=for-the-badge&logo=oracle&logoColor=F80000" />
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerBI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=yellow" />
 <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
-<img src="https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=yellow" />
-<img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4" />
-<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-111827?style=for-the-badge&logo=oracle&logoColor=F80000" />
-<img src="https://img.shields.io/badge/PowerBI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
 
 </p>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212750238-f7d8d6f4-0e2e-4f88-9f5e-f4627d5c8f47.gif" width="100%">
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meaeduarda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=meaeduarda&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -159,64 +170,38 @@ Também desenvolvo websites e soluções digitais através da **Cronos Solutions
 | Projeto | Descrição |
 |----------|------------|
 | [Academia Fit](https://github.com/meaeduarda/AcademiaFit) | Website institucional desenvolvido para academia, com foco em apresentação de serviços, identidade visual, responsividade e experiência do usuário. Construído com Next.js, React e TypeScript. |
-| [Cronos Solutions](https://github.com/meaeduarda/cronossolutions) | Website institucional desenvolvido para apresentar serviços de tecnologia, desenvolvimento web e soluções digitais, com foco em performance, design moderno e experiência do usuário. |
-| [Portfólio Gabba](https://github.com/meaeduarda/portifolio_gabba) | Website profissional desenvolvido com foco em identidade visual, responsividade e fortalecimento da presença digital. |
-| [Clínica Estrela](https://github.com/meaeduarda/clinicaestrela) | Website institucional para área da saúde, desenvolvido com foco em presença digital, acessibilidade e experiência do usuário. |
-| [Giovanna Galhardo](https://github.com/meaeduarda/giovannagalhardo) | Website moderno com identidade visual personalizada, desenvolvido para fortalecimento de marca e presença digital. |
+| [Cronos Solutions](https://github.com/meaeduarda/cronossolutions) | Website institucional desenvolvido para apresentar serviços de tecnologia, desenvolvimento web e soluções digitais. |
+| [Portfólio Gabba](https://github.com/meaeduarda/portifolio_gabba) | Website profissional desenvolvido com foco em identidade visual, responsividade e presença digital. |
+| [Clínica Estrela](https://github.com/meaeduarda/clinicaestrela) | Website institucional para área da saúde com foco em acessibilidade e experiência do usuário. |
+| [Giovanna Galhardo](https://github.com/meaeduarda/giovannagalhardo) | Website moderno com identidade visual personalizada para fortalecimento de marca. |
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750238-f7d8d6f4-0e2e-4f88-9f5e-f4627d5c8f47.gif" width="100%">
 
 # 🌐 Websites Publicados
 
 ## 🏢 Cronos Solutions
 
-🔗 **Website:**  
-https://www.cronossolutions.com.br
+🔗 https://www.cronossolutions.com.br
 
-📂 **Repositório:**  
-https://github.com/meaeduarda/cronossolutions
-
-**Tecnologias utilizadas:**
-
-- HTML5
-- CSS3
-- JavaScript
-- PHP
-- Bootstrap
+📂 https://github.com/meaeduarda/cronossolutions
 
 ---
 
 ## 🏋️ Academia Fit
 
-🔗 **Website:**  
-https://academia-fit-etph.vercel.app
+🔗 https://academia-fit-etph.vercel.app
 
-📂 **Repositório:**  
-https://github.com/meaeduarda/AcademiaFit
-
-**Tecnologias utilizadas:**
-
-- Next.js
-- React
-- TypeScript
-- Node.js
-- Vercel
+📂 https://github.com/meaeduarda/AcademiaFit
 
 ---
 
 ## 🎨 Portfólio Gabba
 
-🔗 **Website:**  
-https://www.portifoliogabba.com.br
+🔗 https://www.portifoliogabba.com.br
 
-📂 **Repositório:**  
-https://github.com/meaeduarda/portifolio_gabba
-
-**Tecnologias utilizadas:**
-
-- HTML5
-- CSS3
-- JavaScript
+📂 https://github.com/meaeduarda/portifolio_gabba
 
 ---
 
@@ -227,13 +212,14 @@ https://github.com/meaeduarda/portifolio_gabba
 ## CREMEPE — Estagiária de TI
 **2025 - Atual**
 
-- Consultas SQL Oracle
-- Desenvolvimento de consultas e relatórios
-- Dashboards e indicadores em Power BI
+- SQL Oracle
+- Relatórios gerenciais
+- Dashboards Power BI
+- Banco de Dados
 - Linux Debian
 - Windows Server
 - Suporte Técnico
-- Administração básica de infraestrutura
+- Infraestrutura de TI
 - Atendimento aos usuários
 
 ---
@@ -256,18 +242,12 @@ https://github.com/meaeduarda/portifolio_gabba
 # 📚 Atualmente Estudando
 
 ```yaml
-- Next.js
-- React
-- TypeScript
-- Node.js
-- Firebase
-- Docker
-- Kubernetes
-- Terraform
-- DevOps
-- CI/CD
 - Cloud Computing
-- IA Generativa
+- Microsoft Azure
+- Docker
+- Terraform
+- Spring Boot
+- APIs REST
 ```
 
 ---
