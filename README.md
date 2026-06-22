@@ -30,7 +30,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212750238-f7d8d6f4-0e2e-4f88-9f5e-f4627d5c8f47.gif" width="100%">
 
-# Sobre Mim
+# 👩‍💻 Sobre Mim
 
 Formada em **Análise e Desenvolvimento de Sistemas** pela **UNIFBV**, bacharela em **Psicologia** pela **UNICAP** e atualmente graduanda em **Ciência da Computação** pela **Estácio**.
 
@@ -40,9 +40,9 @@ Também desenvolvo websites e soluções digitais através da **Cronos Solutions
 
 <div align="center">
 
-## 📢 Em Busca de Novas Oportunidades
+## 🚀 Em Busca de Novas Oportunidades
 
- **Busco estágio ou posição júnior nas áreas de:**
+📢 **Busco estágio ou posição júnior nas áreas de:**
 
 [![Full Stack](https://img.shields.io/badge/Full_Stack_Developer-8A2BE2?style=for-the-badge)](#)
 [![Data Analyst](https://img.shields.io/badge/Data_Analyst-0077B5?style=for-the-badge)](#)
@@ -184,7 +184,7 @@ Também desenvolvo websites e soluções digitais através da **Cronos Solutions
 | [Clínica Estrela](https://github.com/meaeduarda/clinicaestrela) | Website institucional para área da saúde com foco em acessibilidade. |
 | [Giovanna Galhardo](https://github.com/meaeduarda/giovannagalhardo) | Website moderno com identidade visual personalizada. |
 | [PuzzleCare](https://github.com/meaeduarda/saas_puzzlecare) | SaaS para gestão de clínicas multidisciplinares infantis. Horários não comerciais. |
-| [Saas Mobix](https://github.com/meaeduarda/saas_mobix) | _Aguardando link_ |
+| **Saas Mobix** | Plataforma SaaS multi-tenant para gestão de assistência técnica e vendas de eletrônicos. PHP 8+, MySQL, autenticação 2FA, RBAC e armazenamento híbrido (JSON + MySQL). |
 
 ---
 
