@@ -38,7 +38,19 @@ Atualmente atuo como **Estagiária de TI no CREMEPE**, trabalhando com SQL Oracl
 
 Também desenvolvo websites e soluções digitais através da **Cronos Solutions** (em horários não comerciais), utilizando tecnologias modernas como React, Next.js, TypeScript, Node.js e PHP.
 
-**📢 Busco oportunidades de estágio ou posição júnior nas áreas de Desenvolvimento Full Stack, Análise de Dados ou Engenharia de Dados.**
+<div align="center">
+
+## 🚀 Em Busca de Novas Oportunidades
+
+📢 **Busco estágio ou posição júnior nas áreas de:**
+
+[![Full Stack](https://img.shields.io/badge/Full_Stack_Developer-8A2BE2?style=for-the-badge)](#)
+[![Data Analyst](https://img.shields.io/badge/Data_Analyst-0077B5?style=for-the-badge)](#)
+[![Data Engineering](https://img.shields.io/badge/Data_Engineering-F2C811?style=for-the-badge)](#)
+
+📬 **meaeduardadev@gmail.com**
+
+</div>
 
 ### 🎯 Áreas de Interesse
 
