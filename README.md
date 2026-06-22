@@ -40,9 +40,9 @@ Também desenvolvo websites e soluções digitais através da **Cronos Solutions
 
 <div align="center">
 
-## 🚀 Em Busca de Novas Oportunidades
+## 📢 Em Busca de Novas Oportunidades
 
-📢 **Busco estágio ou posição júnior nas áreas de:**
+ **Busco estágio ou posição júnior nas áreas de:**
 
 [![Full Stack](https://img.shields.io/badge/Full_Stack_Developer-8A2BE2?style=for-the-badge)](#)
 [![Data Analyst](https://img.shields.io/badge/Data_Analyst-0077B5?style=for-the-badge)](#)
