@@ -171,6 +171,8 @@ Também desenvolvo websites e soluções digitais através da **Cronos Solutions
 | [Portfólio Gabba](https://github.com/meaeduarda/portifolio_gabba) | Website profissional com foco em identidade visual e responsividade. |
 | [Clínica Estrela](https://github.com/meaeduarda/clinicaestrela) | Website institucional para área da saúde com foco em acessibilidade. |
 | [Giovanna Galhardo](https://github.com/meaeduarda/giovannagalhardo) | Website moderno com identidade visual personalizada. |
+| [PuzzleCare](https://github.com/meaeduarda/saas_puzzlecare) | SaaS para gestão de clínicas multidisciplinares infantis. Horários não comerciais. |
+| [Saas Mobix](https://github.com/meaeduarda/saas_mobix) | _Aguardando link_ |
 
 ---
 
