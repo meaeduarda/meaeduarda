@@ -30,7 +30,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212750238-f7d8d6f4-0e2e-4f88-9f5e-f4627d5c8f47.gif" width="100%">
 
-# 👩‍💻 Sobre Mim
+# Sobre Mim
 
 Formada em **Análise e Desenvolvimento de Sistemas** pela **UNIFBV**, bacharela em **Psicologia** pela **UNICAP** e atualmente graduanda em **Ciência da Computação** pela **Estácio**.
 
@@ -40,29 +40,29 @@ Também desenvolvo websites e soluções digitais através da **Cronos Solutions
 
 <div align="center">
 
-## 🚀 Em Busca de Novas Oportunidades
+## Em Busca de Novas Oportunidades
 
-📢 **Busco estágio ou posição júnior nas áreas de:**
+**Busco estágio ou posição júnior nas áreas de:**
 
 [![Full Stack](https://img.shields.io/badge/Full_Stack_Developer-8A2BE2?style=for-the-badge)](#)
 [![Data Analyst](https://img.shields.io/badge/Data_Analyst-0077B5?style=for-the-badge)](#)
 [![Data Engineering](https://img.shields.io/badge/Data_Engineering-F2C811?style=for-the-badge)](#)
 
-📬 **meaeduardadev@gmail.com**
+**meaeduardadev@gmail.com**
 
 </div>
 
-### 🎯 Áreas de Interesse
+### Areas de Interesse
 
-- 📊 Data Analytics & Business Intelligence
-- 🗄️ Banco de Dados / Engenharia de Dados
-- 🌐 Desenvolvimento Full Stack
+- Data Analytics & Business Intelligence
+- Banco de Dados / Engenharia de Dados
+- Desenvolvimento Full Stack
 
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212750238-f7d8d6f4-0e2e-4f88-9f5e-f4627d5c8f47.gif" width="100%">
 
-# 📊 Data Analytics & Business Intelligence
+# Data Analytics & Business Intelligence
 
 <p align="center">
 
@@ -83,7 +83,7 @@ Também desenvolvo websites e soluções digitais através da **Cronos Solutions
 
 <img src="https://user-images.githubusercontent.com/74038190/212750238-f7d8d6f4-0e2e-4f88-9f5e-f4627d5c8f47.gif" width="100%">
 
-# 🚀 Stack Tecnológica
+# Stack Tecnológica
 
 ## Linguagens
 
@@ -141,7 +141,7 @@ Também desenvolvo websites e soluções digitais através da **Cronos Solutions
 
 ---
 
-# ⚡ Tecnologias em Destaque
+# Tecnologias em Destaque
 
 <p align="center">
 
@@ -160,7 +160,7 @@ Também desenvolvo websites e soluções digitais através da **Cronos Solutions
 
 <img src="https://user-images.githubusercontent.com/74038190/212750238-f7d8d6f4-0e2e-4f88-9f5e-f4627d5c8f47.gif" width="100%">
 
-# 💻 Projetos de Desenvolvimento
+# Projetos de Desenvolvimento
 
 | Projeto | Descrição |
 |----------|------------|
@@ -174,7 +174,7 @@ Também desenvolvo websites e soluções digitais através da **Cronos Solutions
 
 <img src="https://user-images.githubusercontent.com/74038190/212750238-f7d8d6f4-0e2e-4f88-9f5e-f4627d5c8f47.gif" width="100%">
 
-# 🌟 Projetos Freelancer
+# Projetos Freelancer
 
 | Projeto | Descrição |
 |----------|------------|
@@ -183,42 +183,50 @@ Também desenvolvo websites e soluções digitais através da **Cronos Solutions
 | [Portfólio Gabba](https://github.com/meaeduarda/portifolio_gabba) | Website profissional com foco em identidade visual e responsividade. |
 | [Clínica Estrela](https://github.com/meaeduarda/clinicaestrela) | Website institucional para área da saúde com foco em acessibilidade. |
 | [Giovanna Galhardo](https://github.com/meaeduarda/giovannagalhardo) | Website moderno com identidade visual personalizada. |
-| [PuzzleCare](https://github.com/meaeduarda/saas_puzzlecare) | SaaS para gestão de clínicas multidisciplinares infantis. Horários não comerciais. |
-| **Saas Mobix** | Plataforma SaaS multi-tenant para gestão de assistência técnica e vendas de eletrônicos. PHP 8+, MySQL, autenticação 2FA, RBAC e armazenamento híbrido (JSON + MySQL). |
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750238-f7d8d6f4-0e2e-4f88-9f5e-f4627d5c8f47.gif" width="100%">
+
+# Sistemas SaaS
+
+| Projeto | Status | Descrição |
+|---------|--------|------------|
+| **PuzzleCare** | Portfólio | SaaS para gestão de clínicas multidisciplinares infantis. PHP + JSON + Apache. |
+| **Saas Mobix** | **Em produção** — usado por assistência técnica em Recife/PE | Plataforma multi-tenant para gestão de assistência técnica e vendas de eletrônicos. PHP 8+, MySQL, autenticação 2FA, RBAC e armazenamento híbrido (JSON + MySQL). |
 
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212750238-f7d8d6f4-0e2e-4f88-9f5e-f4627d5c8f47.gif" width="100%">
 
-# 🌐 Websites Publicados
+# Websites Publicados
 
-## 🏢 Cronos Solutions
+## Cronos Solutions
 
-🔗 https://www.cronossolutions.com.br
+https://www.cronossolutions.com.br
 
-📂 https://github.com/meaeduarda/cronossolutions
-
----
-
-## 🏋️ Academia Fit
-
-🔗 https://academia-fit-etph.vercel.app
-
-📂 https://github.com/meaeduarda/AcademiaFit
+https://github.com/meaeduarda/cronossolutions
 
 ---
 
-## 🎨 Portfólio Gabba
+## Academia Fit
 
-🔗 https://www.portifoliogabba.com.br
+https://academia-fit-etph.vercel.app
 
-📂 https://github.com/meaeduarda/portifolio_gabba
+https://github.com/meaeduarda/AcademiaFit
+
+---
+
+## Portfólio Gabba
+
+https://www.portifoliogabba.com.br
+
+https://github.com/meaeduarda/portifolio_gabba
 
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212750238-f7d8d6f4-0e2e-4f88-9f5e-f4627d5c8f47.gif" width="100%">
 
-# 💼 Experiência
+# Experiência
 
 ## CREMEPE — Estagiária de TI
 **2025 - Atual**
@@ -241,7 +249,7 @@ Também desenvolvo websites e soluções digitais através da **Cronos Solutions
 
 ---
 
-# 📚 Atualmente Estudando
+# Atualmente Estudando
 
 ```yaml
 - Cloud Computing
@@ -254,7 +262,7 @@ Também desenvolvo websites e soluções digitais através da **Cronos Solutions
 
 ---
 
-# 🏆 Certificações
+# Certificações
 
 - **Qualificação Profissional em Desenvolvimento Web Front-End** — SENAC / Porto Digital (2023)
 - **Curso de MySQL** — Plataforma Curso em Vídeo (2024)
@@ -266,7 +274,7 @@ Também desenvolvo websites e soluções digitais através da **Cronos Solutions
 
 ---
 
-# 🌎 Idiomas
+# Idiomas
 
 - Inglês — Básico (Leitura Técnica)
 - Espanhol — Básico
