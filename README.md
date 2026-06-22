@@ -34,9 +34,11 @@
 
 Formada em **Análise e Desenvolvimento de Sistemas** pela **UNIFBV**, bacharela em **Psicologia** pela **UNICAP** e atualmente graduanda em **Ciência da Computação** pela **Estácio**.
 
-Atualmente atuo como **Estagiária de TI no CREMEPE** (meu primeiro estágio), trabalhando com SQL Oracle, Power BI, banco de dados, relatórios gerenciais, dashboards, suporte técnico e infraestrutura.
+Meu **eixo principal é Análise de Dados** — área onde atuo diariamente no CREMEPE com SQL Oracle e Power BI. Paralelamente, invisto em **Qualidade de Software (QA)** como segunda área de interesse, com estudos em Postman e testes de API.
 
-Também desenvolvo websites e soluções digitais através da **Cronos Solutions** (em horários não comerciais), utilizando tecnologias modernas como React, Next.js, TypeScript, Node.js e PHP.
+Atualmente trabalho como **Estagiária de TI no CREMEPE** (meu primeiro estágio), atuando com SQL Oracle, Power BI, banco de dados, relatórios gerenciais, dashboards, suporte técnico e infraestrutura.
+
+Também desenvolvo websites e soluções digitais pela **Cronos Solutions** (horários não comerciais), com React, Next.js, TypeScript, Node.js e PHP.
 
 <div align="center">
 
@@ -86,6 +88,28 @@ Também desenvolvo websites e soluções digitais através da **Cronos Solutions
 
 # Stack Tecnológica
 
+## Banco de Dados (Principal)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+</p>
+
+---
+
+## QA / Testes de Software
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Testes_de_API-111827?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Testes_Manuais-8A2BE2?style=for-the-badge">
+</p>
+
+---
+
 ## Linguagens
 
 <p align="center">
@@ -106,28 +130,6 @@ Também desenvolvo websites e soluções digitais através da **Cronos Solutions
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,php,firebase" />
-</p>
-
----
-
-## Banco de Dados
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-</p>
-
----
-
-## QA / Testes de Software
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Testes_de_API-111827?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Testes_Manuais-8A2BE2?style=for-the-badge">
 </p>
 
 ---
@@ -173,13 +175,13 @@ Também desenvolvo websites e soluções digitais através da **Cronos Solutions
 
 # Projetos de Desenvolvimento
 
-| Projeto | Descrição |
-|----------|------------|
-| [Manipulador PDF](https://github.com/meaeduarda/manipulador_pdf) | Aplicação desktop em Python para manipulação avançada de PDFs, criada durante estágio no CREMEPE. |
-| [Banking Operation](https://github.com/meaeduarda/banking_operation) | Sistema bancário para prática de lógica de programação e regras de negócio. |
-| [Automation Python](https://github.com/meaeduarda/automation_python) | Scripts e automações com Python para produtividade e otimização de processos. |
-| [Database Mechanical Workshop](https://github.com/meaeduarda/database_mechanical_workshop) | Modelagem e gerenciamento de banco de dados para oficina mecânica. |
-| [DevOps Automation](https://github.com/meaeduarda/devops_automation) | Estudos e práticas de automação, DevOps e infraestrutura. |
+| Projeto | Area | Descrição |
+|---------|------|------------|
+| [Manipulador PDF](https://github.com/meaeduarda/manipulador_pdf) | 📊 Dados | Aplicação desktop em Python para manipulação avançada de PDFs, criada durante estágio no CREMEPE. |
+| [Database Mechanical Workshop](https://github.com/meaeduarda/database_mechanical_workshop) | 📊 Dados | Modelagem e gerenciamento de banco de dados para oficina mecânica. |
+| [Automation Python](https://github.com/meaeduarda/automation_python) | 📊 Dados / QA | Scripts e automações com Python para produtividade e otimização de processos. |
+| [Banking Operation](https://github.com/meaeduarda/banking_operation) | 💻 Web | Sistema bancário para prática de lógica de programação e regras de negócio. |
+| [DevOps Automation](https://github.com/meaeduarda/devops_automation) | ⚙️ Outros | Estudos e práticas de automação, DevOps e infraestrutura. |
 
 ---
 
@@ -242,9 +244,13 @@ https://github.com/meaeduarda/portifolio_gabba
 ## CREMEPE — Estagiária de TI
 **2025 - Atual**
 
-- SQL Oracle — consultas e relatórios gerenciais
-- Dashboards Power BI — indicadores e métricas
-- Administração de banco de dados
+**Atividades principais (Análise de Dados):**
+- SQL Oracle — consultas complexas, relatórios gerenciais e extração de dados
+- Power BI — criação de dashboards com indicadores e métricas institucionais
+- Administração e manutenção de banco de dados
+- Tratamento e análise de dados para suporte à tomada de decisão
+
+**Outras atividades:**
 - Linux Debian e Windows Server
 - Suporte técnico e infraestrutura de TI
 
@@ -263,27 +269,42 @@ https://github.com/meaeduarda/portifolio_gabba
 # Atualmente Estudando
 
 ```yaml
-- Postman | Testes de API
-- QA Engineer | Qualidade de Software
-- Testes Manuais e Automatizados
-- Cloud Computing (basico)
-- APIs REST
+📊 Dados:
+  - SQL Avançado | Modelagem de Dados
+  - Power BI | Dashboards e Indicadores
+  - Python para Análise de Dados
+
+🧪 QA:
+  - Postman | Testes de API
+  - QA Engineer | Qualidade de Software
+  - Testes Manuais e Automatizados
+
+💻 Web:
+  - APIs REST
+  - Cloud Computing (basico)
 ```
 
 ---
 
 # Certificações
 
-- **Qualificação Profissional em Desenvolvimento Web Front-End** — SENAC / Porto Digital (2023)
-- **Curso de MySQL** — Plataforma Curso em Vídeo (2024)
-- **FAST Aceleração Front-End & Gestão de Projetos** (Agile, Scrum, Kanban, Trello) — Cesar School (2024)
+**📊 Dados**
 - **Database Experience** (SQL e NoSQL) — Bootcamp DIO (2025)
+- **Curso de MySQL** — Plataforma Curso em Vídeo (2024)
 - **Inteligência Artificial Aplicada a Dados com Copilot** — Heineken / DIO (2025)
-- **DevOps: Curso Completo Automação** — Udemy (2026)
-- **FullStack PHP** — UpInside Treinamentos (2026)
+
+**🧪 QA / Testes**
 - **Curso Completo de QA Engineer desde 0 hasta Avanzado** — Udemy (2026)
-- **Iniciando na Área de Testes de Software** — Udemy (2026)
 - **Postman: Testes de API e Automatização** — Udemy (2026)
+- **Iniciando na Área de Testes de Software** — Udemy (2026)
+
+**💻 Web / Full Stack**
+- **Qualificação Profissional em Desenvolvimento Web Front-End** — SENAC / Porto Digital (2023)
+- **FAST Aceleração Front-End & Gestão de Projetos** (Agile, Scrum, Kanban, Trello) — Cesar School (2024)
+- **FullStack PHP** — UpInside Treinamentos (2026)
+
+**⚙️ Outros**
+- **DevOps: Curso Completo Automação** — Udemy (2026)
 
 ---
 
