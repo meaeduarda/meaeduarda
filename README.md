@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=8A2BE2&text=Maria%20Eduarda%20Cavalcanti&fontSize=42&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Data%20Engineering&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=8A2BE2&text=Maria%20Eduarda%20Cavalcanti&fontSize=42&fontAlignY=40&desc=Data%20Analyst%20%7C%20QA%20Analyst&descAlignY=60"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Data+Analytics+%7C+Power+BI+%7C+SQL;Oracle+Database+%7C+Business+Intelligence;Next.js+%2B+React+%2B+TypeScript;Cloud+%7C+Docker+%7C+Azure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Data+Analytics+%7C+Power+BI+%7C+SQL;Oracle+Database+%7C+Business+Intelligence;Quality+Assurance+%7C+Postman+%7C+Testes+de+API;Web+Development+%7C+Next.js+%2B+React)](https://git.io/typing-svg)
 
 <br><br>
 
@@ -34,7 +34,7 @@
 
 Formada em **Análise e Desenvolvimento de Sistemas** pela **UNIFBV**, bacharela em **Psicologia** pela **UNICAP** e atualmente graduanda em **Ciência da Computação** pela **Estácio**.
 
-Atualmente atuo como **Estagiária de TI no CREMEPE**, trabalhando com SQL Oracle, Power BI, banco de dados, relatórios gerenciais, dashboards, suporte técnico e infraestrutura.
+Atualmente atuo como **Estagiária de TI no CREMEPE** (meu primeiro estágio), trabalhando com SQL Oracle, Power BI, banco de dados, relatórios gerenciais, dashboards, suporte técnico e infraestrutura.
 
 Também desenvolvo websites e soluções digitais através da **Cronos Solutions** (em horários não comerciais), utilizando tecnologias modernas como React, Next.js, TypeScript, Node.js e PHP.
 
@@ -44,19 +44,20 @@ Também desenvolvo websites e soluções digitais através da **Cronos Solutions
 
 **Busco estágio ou posição júnior nas áreas de:**
 
-[![Full Stack](https://img.shields.io/badge/Full_Stack_Developer-8A2BE2?style=for-the-badge)](#)
 [![Data Analyst](https://img.shields.io/badge/Data_Analyst-0077B5?style=for-the-badge)](#)
-[![Data Engineering](https://img.shields.io/badge/Data_Engineering-F2C811?style=for-the-badge)](#)
+[![QA Analyst](https://img.shields.io/badge/QA_Analyst-8A2BE2?style=for-the-badge)](#)
 
-**meaeduardadev@gmail.com**
+> Estou no início da minha trajetória profissional e **busco conhecimento, aprendizado e crescimento**. Quero contribuir com dedicação e evoluir junto com a equipe.
+
+📬 **meaeduardadev@gmail.com**
 
 </div>
 
 ### Areas de Interesse
 
-- Data Analytics & Business Intelligence
-- Banco de Dados / Engenharia de Dados
-- Desenvolvimento Full Stack
+- Analise de Dados & Business Intelligence
+- Qualidade de Software (QA)
+- Desenvolvimento Full Stack (secundario)
 
 ---
 
@@ -121,7 +122,17 @@ Também desenvolvo websites e soluções digitais através da **Cronos Solutions
 
 ---
 
-## Cloud • Infraestrutura • DevOps
+## QA / Testes de Software
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Testes_de_API-111827?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Testes_Manuais-8A2BE2?style=for-the-badge">
+</p>
+
+---
+
+## Conhecimentos Basicos (Cloud • Infraestrutura)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github,gitlab,azure,aws" />
@@ -149,10 +160,10 @@ Também desenvolvo websites e soluções digitais através da **Cronos Solutions
 <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PowerBI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
 <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=yellow" />
+<img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" />
 <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
 
 </p>
 
@@ -252,11 +263,10 @@ https://github.com/meaeduarda/portifolio_gabba
 # Atualmente Estudando
 
 ```yaml
-- Cloud Computing
-- Microsoft Azure
-- Docker
-- Terraform
-- Spring Boot
+- Postman | Testes de API
+- QA Engineer | Qualidade de Software
+- Testes Manuais e Automatizados
+- Cloud Computing (basico)
 - APIs REST
 ```
 
@@ -271,6 +281,9 @@ https://github.com/meaeduarda/portifolio_gabba
 - **Inteligência Artificial Aplicada a Dados com Copilot** — Heineken / DIO (2025)
 - **DevOps: Curso Completo Automação** — Udemy (2026)
 - **FullStack PHP** — UpInside Treinamentos (2026)
+- **Curso Completo de QA Engineer desde 0 hasta Avanzado** — Udemy (2026)
+- **Iniciando na Área de Testes de Software** — Udemy (2026)
+- **Postman: Testes de API e Automatização** — Udemy (2026)
 
 ---
 
