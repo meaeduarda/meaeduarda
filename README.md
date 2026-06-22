@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=8A2BE2&text=Maria%20Eduarda%20Cavalcanti&fontSize=42&fontAlignY=40&desc=Analista%20de%20Sistemas%20•%20Data%20Analytics%20•%20Web%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=8A2BE2&text=Maria%20Eduarda%20Cavalcanti&fontSize=42&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Data%20Engineering&descAlignY=60"/>
 
 <br>
 
@@ -36,7 +36,9 @@ Formada em **Análise e Desenvolvimento de Sistemas** pela **UNIFBV**, bacharela
 
 Atualmente atuo como **Estagiária de TI no CREMEPE**, trabalhando com SQL Oracle, Power BI, banco de dados, relatórios gerenciais, dashboards, suporte técnico e infraestrutura.
 
-Também desenvolvo websites e soluções digitais através da **Cronos Solutions**, utilizando tecnologias modernas como React, Next.js, TypeScript, Node.js e PHP.
+Também desenvolvo websites e soluções digitais através da **Cronos Solutions** (em horários não comerciais), utilizando tecnologias modernas como React, Next.js, TypeScript, Node.js e PHP.
+
+**📢 Busco oportunidades de estágio ou posição júnior nas áreas de Desenvolvimento Full Stack, Análise de Dados ou Engenharia de Dados.**
 
 ### 🎯 Áreas de Interesse
 
@@ -215,7 +217,7 @@ Também desenvolvo websites e soluções digitais através da **Cronos Solutions
 
 ---
 
-## Cronos Solutions — Desenvolvedora Freelancer
+## Cronos Solutions — Desenvolvedora Freelancer (horários não comerciais)
 **2025 - Atual**
 
 - Desenvolvimento de websites com React, Next.js e TypeScript
